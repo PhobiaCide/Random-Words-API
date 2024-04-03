@@ -12,15 +12,15 @@
 
 ## 🚀 API
 
-- Free API - `https://random-words-api.vercel.app/word`
-- Dutch Random Words - `https://random-words-api.vercel.app/word/dutch`
-- Get Pronunciation for a Word - `https://random-words-api.vercel.app/pronounce/`
+- Free API - `https://random-words-api-plum.vercel.app/word`
+- Dutch Random Words - `https://random-words-api-plum.vercel.app/word/dutch`
+- Get Pronunciation for a Word - `https://random-words-api-plum.vercel.app/pronounce/`
 
 - PWA Demo - [Check Here](https://words.sanweb.info/)
 
 ## 🎛 Route Options
 
-- Base URL: `https://random-words-api.vercel.app/word`
+- Base URL: `https://random-words-api-plum.vercel.app/word`
 
 ```text
 - /noun
@@ -40,7 +40,7 @@
 
 ## 🌐 Sample API Response
 
-- API: `https://random-words-api.vercel.app/word/`
+- API: `https://random-words-api-plum.vercel.app/word`
 - Method: `GET`
 
 ```json
@@ -55,7 +55,7 @@
 
 ## 🌐 Sample Dutch Response
 
-- API: `https://random-words-api.vercel.app/word/dutch`
+- API: `https://random-words-api-plum.vercel.app/word/dutch`
 - Method: `GET`
 
 ```json
@@ -70,7 +70,7 @@
 
 ## 🌐 Sample Pronunciation Request
 
-- API: `https://random-words-api.vercel.app/pronounce`
+- API: `https://random-words-api-plum.vercel.app/pronounce`
 - Method: `POST`
 
 ```sh
